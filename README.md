@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile%20Views-3000-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Profile%20Views-3153-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
