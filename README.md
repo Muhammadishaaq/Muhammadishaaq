@@ -10,7 +10,7 @@
   </a>
   <img src="https://img.shields.io/badge/Laravel-Specialist-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-7C3AED?style=for-the-badge" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-7C3AED?style=for-the-badge" alt="Full Stack">
 </p>
 
 <p>
@@ -27,17 +27,19 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Web Developer** specializing in **Laravel and PHP**, with experience building production applications using **Vue.js, React, Node.js, MySQL, REST APIs, and third-party integrations**.
+I'm a **Full-Stack Web Developer** specializing in **Laravel and PHP**, with hands-on experience building production applications using **Vue.js, React, Node.js, MySQL, REST APIs, and third-party integrations**.
 
 I focus on transforming complex business requirements into software that is:
 
 > **Reliable · Secure · Scalable · Maintainable · Performant**
 
-My development experience includes **CRM/ERP platforms, payroll systems, invoicing systems, reporting dashboards, APIs, automation platforms, communication systems, and business workflows**.
+My development experience includes:
+
+`CRM/ERP` · `Payroll` · `Invoicing` · `Reporting` · `APIs` · `Automation` · `Communication Systems` · `Business Workflows`
 
 ---
 
-## 🧠 My Engineering Approach
+## 🧠 Engineering Approach
 
 ```text
                     ┌─────────────────────────┐
@@ -77,7 +79,7 @@ My development experience includes **CRM/ERP platforms, payroll systems, invoici
 
 # ⚡ Technology Stack
 
-## Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Technologies">
@@ -85,9 +87,7 @@ My development experience includes **CRM/ERP platforms, payroll systems, invoici
 
 `PHP` · `Laravel` · `Node.js` · `Express.js`
 
----
-
-## Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap,vite" alt="Frontend Technologies">
@@ -95,9 +95,7 @@ My development experience includes **CRM/ERP platforms, payroll systems, invoici
 
 `Vue.js` · `React` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Vite`
 
----
-
-## Database & Infrastructure
+### Database & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,redis,linux,git,github" alt="Database and Infrastructure">
@@ -240,7 +238,7 @@ I build modern frontend applications using **Vue.js, React and JavaScript**.
 
 # 🟢 Node.js Development
 
-I also develop backend services and integrations using **Node.js and Express.js**.
+I develop backend services and integrations using **Node.js and Express.js**.
 
 ```text
 Node.js
@@ -322,21 +320,11 @@ Secure API Response
 
 ### 🔒 Security Experience
 
-`Authentication`
+`Authentication` · `Authorization` · `RBAC` · `API Authentication`
 
-`Authorization`
+`Request Validation` · `Permission Management` · `Access Control`
 
-`RBAC`
-
-`API Authentication`
-
-`Request Validation`
-
-`Permission Management`
-
-`Access Control`
-
-`Secure Integrations`
+`Secure Integrations` · `Data Protection`
 
 ---
 
@@ -386,20 +374,16 @@ Scalable Application
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Muhammadishaaq">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Statistics">
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics">
 </a>
 
 <a href="https://github.com/Muhammadishaaq">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages">
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
 </a>
 
 </div>
@@ -442,8 +426,6 @@ Scalable Application
 ---
 
 # 🎯 Current Focus
-
-I'm continuously improving my skills in:
 
 ```text
 🚀 Scalable Laravel Applications
@@ -489,11 +471,13 @@ I'm interested in working on:
 <div align="center">
 
 <a href="https://github.com/Muhammadishaaq">
-<img src="https://img.shields.io/badge/GitHub-Muhammadishaaq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Muhammadishaaq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<!-- Replace YOUR-LINKEDIN-URL with your actual LinkedIn profile -->
+
 <a href="YOUR-LINKEDIN-URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
