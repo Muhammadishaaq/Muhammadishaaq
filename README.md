@@ -184,7 +184,7 @@ Frontend and full-stack applications using:
 
 ---
 
----
+
 
 ## 📊 GitHub
 
