@@ -184,22 +184,31 @@ Frontend and full-stack applications using:
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Muhammad Ishaq GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"
+    alt="Muhammad Ishaq GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## ⚡ GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadishaaq&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Muhammadishaaq&hide_border=true"
+    alt="Muhammad Ishaq GitHub Streak"
+  />
 </p>
 
 ---
