@@ -1,144 +1,271 @@
-# 👋 Muhammad Ishaq
+<div align="center">
 
-### Full-Stack Developer · Laravel & PHP Specialist
+# 👋 Hi, I'm **Muhammad Ishaq**
 
-> Building **scalable web applications, SaaS platforms, CRM/ERP systems, APIs & automation solutions.**
+### Full-Stack Developer · Laravel & PHP Specialist · Backend Engineer
 
-<p>
-  <a href="https://github.com/Muhammadishaaq">
-    <img src="https://img.shields.io/badge/GitHub-Muhammadishaaq-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**I build scalable software, business platforms, APIs & automation systems.**
 
-`Laravel` `PHP` `Vue.js` `React` `Node.js` `MySQL`
+<br>
 
----
+<a href="https://github.com/Muhammadishaaq">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 🚀 What I Do
+<br><br>
 
-I specialize in turning complex business requirements into **production-ready software**.
+<img src="https://komarev.com/ghpvc/?username=Muhammadishaaq&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
-| 🏢 Business Systems | 🔌 Backend & APIs | ⚡ Engineering         |
-| :------------------ | :---------------- | :-------------------- |
-| CRM / ERP           | REST APIs         | Performance           |
-| SaaS Platforms      | Third-Party APIs  | Database Optimization |
-| Payroll Systems     | WhatsApp / SMS    | Queues & Jobs         |
-| Invoicing           | Webhooks          | Scalable Architecture |
-| Reporting           | Authentication    | Automation            |
+</div>
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-### Backend
+### ⚡ My Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,vue,react,js,mysql,redis,linux,git,github&perline=6" />
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap,vite" />
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,linux,git,github" />
-</p>
+</div>
 
 ---
 
-## 🧠 Core Expertise
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Developer** focused on building **production-ready applications** with Laravel, PHP and modern JavaScript technologies.
+
+I enjoy solving complex business problems through:
+
+`Clean Architecture` · `Scalable APIs` · `Database Optimization` · `Automation`
+
+### 💼 I Work On
 
 ```text
-Backend        → Laravel · PHP · Node.js · REST APIs
-Frontend       → Vue.js · React · JavaScript
-Database       → MySQL · Redis · Query Optimization
-Architecture   → MVC · REST · Modular Systems
-Security       → Authentication · Authorization · RBAC
-Performance    → Indexing · Eloquent · Queues · Caching
-Automation     → Jobs · Scheduling · Notifications · APIs
+🏢 CRM / ERP Systems
+☁️ SaaS Platforms
+💰 Payroll & Business Systems
+🧾 Invoicing & Reporting
+🔌 REST APIs & Integrations
+🤖 Business Automation
+💬 WhatsApp / SMS / Email Systems
+📊 Dashboards & Analytics
 ```
 
 ---
 
-## 🏗️ What I Build
+## 🚀 What I Bring
 
-**CRM & ERP**
-Customer management, sales, employees, payroll, invoices, commissions, approvals and reporting.
+<table>
+<tr>
+<td width="50%">
 
-**SaaS & Business Platforms**
-Multi-module applications designed around real-world business workflows.
+### 🏗️ Backend Engineering
 
-**APIs & Integrations**
-REST APIs, webhooks, WhatsApp, SMS, email, OTP and third-party services.
+* Laravel & PHP
+* REST API development
+* Eloquent ORM
+* Authentication & RBAC
+* Jobs & Queues
+* Events & Notifications
+* Third-party integrations
 
-**Automation & Reporting**
-Background jobs, scheduled tasks, dashboards, reports and workflow automation.
+</td>
+
+<td width="50%">
+
+### ⚡ Performance
+
+* MySQL optimization
+* Query optimization
+* Database indexing
+* Eloquent optimization
+* N+1 prevention
+* Queue processing
+* Large dataset handling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+
+* Vue.js
+* React
+* JavaScript
+* Responsive UI
+* API-driven applications
+* DataTables
+* Vite
+
+</td>
+
+<td width="50%">
+
+### 🤖 Automation
+
+* Scheduled tasks
+* Background jobs
+* WhatsApp automation
+* SMS automation
+* Email workflows
+* Notifications
+* Business process automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Engineering Mindset
+## 🧰 Technology
 
-> **Clean code. Secure systems. Better performance. Built to scale.**
+<div align="center">
 
-I care about:
+|   Backend  |  Frontend  | Database |  Tools |
+| :--------: | :--------: | :------: | :----: |
+|     PHP    |   Vue.js   |   MySQL  |   Git  |
+|   Laravel  |    React   |   Redis  | GitHub |
+|   Node.js  | JavaScript |     —    |  Linux |
+| Express.js |  Bootstrap |     —    |  Vite  |
 
-`Security` · `Performance` · `Scalability` · `Maintainability` · `Developer Experience`
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammadishaaq&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🎯 Currently Exploring
+## 🏗️ Systems I Build
 
-`☁️ SaaS Architecture` · `🚀 Scalable Laravel`
+<div align="center">
 
-`🔌 Advanced APIs` · `🗄️ Database Performance`
+<table>
+<tr>
 
-`⚡ Vue.js & React` · `🟢 Node.js`
+<td align="center" width="25%">
 
-`🤖 Business Automation` · `🔐 Secure Architecture`
+### 🏢
+
+**CRM / ERP**
+
+Business management
+platforms & workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**SaaS**
+
+Scalable multi-module
+web applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔌
+
+**APIs**
+
+REST APIs &
+third-party integrations
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Automation**
+
+Business workflows
+& background processing
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🤝 Let's Build Something
+## 🧠 Engineering Philosophy
 
-I'm open to collaborating on:
+<div align="center">
+
+### **"Build clean. Scale confidently. Ship reliably."**
+
+<br>
+
+`🔐 Security`   `⚡ Performance`   `📈 Scalability`
+`🧩 Maintainability`   `🏗️ Architecture`   `🚀 Reliability`
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=6" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Muhammadishaaq&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Building & Learning
+
+<div align="center">
+
+`🚀 Scalable Laravel`
+`☁️ SaaS Architecture`
+`🔌 Advanced API Design`
+`🗄️ Database Performance`
+`⚡ Vue.js & React`
+`🟢 Node.js Services`
+`🤖 Business Automation`
+`🔐 Secure Architecture`
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to interesting projects involving:
 
 **Laravel · PHP · SaaS · CRM/ERP · APIs · Automation · Vue.js · React · Node.js**
 
-<p>
-  <a href="https://github.com/Muhammadishaaq">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<br>
 
-<p align="center">
-  <b>🚀 Building reliable software, one system at a time.</b>
-</p>
+<a href="https://github.com/Muhammadishaaq">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <sub>Laravel & PHP Specialist · Full-Stack Developer</sub>
-</p>
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+### 🚀 Building reliable software, one system at a time.
+
+**Muhammad Ishaq**
+*Full-Stack Developer · Laravel & PHP Specialist*
+
+</div>
