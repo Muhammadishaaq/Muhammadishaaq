@@ -184,31 +184,23 @@ Frontend and full-stack applications using:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"
-    alt="Muhammad Ishaq GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
-## ⚡ GitHub Contribution Streak
+## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Muhammadishaaq&hide_border=true"
-    alt="Muhammad Ishaq GitHub Streak"
-  />
+  <a href="https://github.com/Muhammadishaaq">
+    <img src="https://img.shields.io/github/followers/Muhammadishaaq?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Muhammadishaaq?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Muhammadishaaq">
+    <img src="https://img.shields.io/github/last-commit/Muhammadishaaq/Muhammadishaaq?style=for-the-badge&label=Profile%20Updated" alt="Profile Updated" />
+  </a>
 </p>
 
 ---
