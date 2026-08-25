@@ -84,10 +84,7 @@ I focus on:
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Muhammadishaaq&hide_border=true" />
