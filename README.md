@@ -4,15 +4,15 @@
 
 ### Full-Stack Developer · Laravel & PHP Specialist · Backend Engineer
 
-**I build scalable software, business platforms, APIs & automation systems.**
+**Building scalable software, business platforms, APIs & automation systems.**
 
 <br>
 
 <a href="https://github.com/Muhammadishaaq">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Muhammadishaaq-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="YOUR-LINKEDIN-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### ⚡ My Stack
+## ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,vue,react,js,mysql,redis,linux,git,github&perline=6" />
 
@@ -35,24 +35,46 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building **production-ready applications** with Laravel, PHP and modern JavaScript technologies.
+I'm a **Full-Stack Developer** specializing in **Laravel & PHP**, with experience building production-ready applications using modern backend and frontend technologies.
 
-I enjoy solving complex business problems through:
+I enjoy turning complex business requirements into software that is:
 
-`Clean Architecture` · `Scalable APIs` · `Database Optimization` · `Automation`
+`Reliable` · `Secure` · `Scalable` · `Maintainable` · `Performant`
 
-### 💼 I Work On
+My primary focus is **backend engineering**, while also building complete full-stack applications with Vue.js, React and Node.js.
 
-```text
-🏢 CRM / ERP Systems
-☁️ SaaS Platforms
-💰 Payroll & Business Systems
-🧾 Invoicing & Reporting
-🔌 REST APIs & Integrations
-🤖 Business Automation
-💬 WhatsApp / SMS / Email Systems
-📊 Dashboards & Analytics
-```
+---
+
+## 💼 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Business Systems
+
+* CRM / ERP Platforms
+* SaaS Applications
+* Payroll Systems
+* Invoicing Systems
+* Commission & Bonus Systems
+* Reporting & Analytics
+
+</td>
+<td width="50%">
+
+### 🔌 APIs & Automation
+
+* REST APIs
+* Third-Party Integrations
+* WhatsApp / SMS / Email
+* OTP Systems
+* Webhooks
+* Business Process Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -65,26 +87,28 @@ I enjoy solving complex business problems through:
 ### 🏗️ Backend Engineering
 
 * Laravel & PHP
-* REST API development
-* Eloquent ORM
-* Authentication & RBAC
+* MVC & Eloquent ORM
+* REST API Development
+* Authentication & Authorization
+* Role-Based Access Control
 * Jobs & Queues
 * Events & Notifications
-* Third-party integrations
+* Third-Party Integrations
 
 </td>
 
 <td width="50%">
 
-### ⚡ Performance
+### ⚡ Performance Engineering
 
-* MySQL optimization
-* Query optimization
-* Database indexing
-* Eloquent optimization
-* N+1 prevention
-* Queue processing
-* Large dataset handling
+* MySQL Optimization
+* Query Optimization
+* Database Indexing
+* Eloquent Optimization
+* N+1 Query Prevention
+* Queue Processing
+* Large Dataset Handling
+* API Optimization
 
 </td>
 </tr>
@@ -92,14 +116,15 @@ I enjoy solving complex business problems through:
 <tr>
 <td width="50%">
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 * Vue.js
 * React
 * JavaScript
 * Responsive UI
-* API-driven applications
+* API-Driven Applications
 * DataTables
+* AJAX
 * Vite
 
 </td>
@@ -108,13 +133,14 @@ I enjoy solving complex business problems through:
 
 ### 🤖 Automation
 
-* Scheduled tasks
-* Background jobs
-* WhatsApp automation
-* SMS automation
-* Email workflows
+* Scheduled Tasks
+* Background Jobs
+* Queue Workers
+* WhatsApp Automation
+* SMS Automation
+* Email Workflows
 * Notifications
-* Business process automation
+* Reporting Automation
 
 </td>
 </tr>
@@ -203,8 +229,9 @@ Business workflows
 
 <br>
 
-`🔐 Security`   `⚡ Performance`   `📈 Scalability`
-`🧩 Maintainability`   `🏗️ Architecture`   `🚀 Reliability`
+`🔐 Security` · `⚡ Performance` · `📈 Scalability`
+
+`🧩 Maintainability` · `🏗️ Architecture` · `🚀 Reliability`
 
 </div>
 
@@ -214,9 +241,11 @@ Business workflows
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&rank_icon=github" />
 
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Muhammadishaaq&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadishaaq&hide_border=true" />
 
 </div>
 
@@ -226,14 +255,13 @@ Business workflows
 
 <div align="center">
 
-`🚀 Scalable Laravel`
-`☁️ SaaS Architecture`
-`🔌 Advanced API Design`
-`🗄️ Database Performance`
-`⚡ Vue.js & React`
-`🟢 Node.js Services`
-`🤖 Business Automation`
-`🔐 Secure Architecture`
+`🚀 Scalable Laravel` · `☁️ SaaS Architecture`
+
+`🔌 Advanced API Design` · `🗄️ Database Performance`
+
+`⚡ Vue.js & React` · `🟢 Node.js Services`
+
+`🤖 Business Automation` · `🔐 Secure Architecture`
 
 </div>
 
@@ -243,7 +271,7 @@ Business workflows
 
 I'm open to interesting projects involving:
 
-**Laravel · PHP · SaaS · CRM/ERP · APIs · Automation · Vue.js · React · Node.js**
+**Laravel · PHP · SaaS · CRM/ERP · REST APIs · Automation · Vue.js · React · Node.js**
 
 <div align="center">
 
@@ -262,6 +290,7 @@ I'm open to interesting projects involving:
 ### 🚀 Building reliable software, one system at a time.
 
 **Muhammad Ishaq**
+
 *Full-Stack Developer · Laravel & PHP Specialist*
 
 </div>
