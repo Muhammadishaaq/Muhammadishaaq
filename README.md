@@ -11,7 +11,7 @@
 <a href="https://github.com/Muhammadishaaq">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/muhammad-ishaq-6a3418260/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -362,7 +362,7 @@ I'm open to interesting projects involving:
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/muhammad-ishaq-6a3418260/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
