@@ -1,130 +1,179 @@
-# Muhammad Ishaq
+# 👋 Hey, I'm Muhammad Ishaq
 
-### Full-Stack Developer | Laravel • PHP • Vue.js • React • Node.js • MySQL
+### Full-Stack Developer · Laravel & PHP Specialist · Backend Engineer
 
-I build **scalable web applications, business platforms, CRM/ERP systems, REST APIs, and automation solutions** using modern backend and frontend technologies.
+<p align="left">
+  <a href="https://github.com/Muhammadishaaq">
+    <img src="https://img.shields.io/github/followers/Muhammadishaaq?style=flat-square&logo=github&label=Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Muhammadishaaq&style=flat-square&color=blueviolet&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-7C3AED?style=flat-square" />
+</p>
 
-My primary expertise is **Laravel and PHP**, complemented by **Vue.js, React, Node.js, and MySQL**. I focus on building reliable applications with clean architecture, optimized database queries, secure APIs, and maintainable code.
+> **I build scalable web applications, business platforms, CRM/ERP systems, APIs, automation tools, and high-performance backend systems.**
+
+My core expertise is **Laravel + PHP**, backed by strong experience in **Vue.js, React, Node.js, MySQL, REST APIs, and system integrations**.
+
+I enjoy turning complex business requirements into **clean, reliable, secure, and maintainable software**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 💻 Full-Stack Web Developer
-* 🚀 Specialized in **Laravel & PHP development**
-* ⚡ Experienced with **Vue.js, React, and JavaScript**
-* 🟢 Backend development with **Node.js & Express.js**
-* 🗄️ Strong experience with **MySQL & database optimization**
-* 🔌 REST API development and third-party integrations
-* 🏢 CRM, ERP, SaaS, payroll, invoicing & business management systems
-* 🔐 Authentication, authorization & role-based access control
-* 📱 WhatsApp, SMS, Email & OTP integrations
-* ⚙️ Background jobs, queues and automation
-* 📊 Reporting, dashboards and DataTables
-* 🛠️ Production debugging, optimization and deployment
+```yaml
+name: Muhammad Ishaq
+role: Full-Stack Developer
+specialization: Laravel & PHP
 
----
+backend:
+  - PHP
+  - Laravel
+  - Node.js
+  - Express.js
 
-## 🧰 Technology Stack
+frontend:
+  - Vue.js
+  - React
+  - JavaScript
+  - Bootstrap
+  - HTML5
+  - CSS3
 
-### Backend Development
+database:
+  - MySQL
+  - Redis
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
+architecture:
+  - MVC
+  - REST APIs
+  - Modular Applications
+  - Role-Based Access Control
 
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-</p>
+currently_focusing:
+  - Scalable Laravel Applications
+  - SaaS Platforms
+  - API Architecture
+  - Database Optimization
+  - Business Automation
+```
 
 ---
 
-## 💼 What I Do
+# ⚡ Tech Stack
 
-### 🏢 Business Applications
+### Backend
 
-I develop business-focused applications that automate day-to-day operations, including:
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
 
-* CRM & ERP platforms
+`PHP` · `Laravel` · `Node.js` · `Express.js`
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap,vite" />
+</p>
+
+`Vue.js` · `React` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `Vite`
+
+### Database & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,redis,linux,git,github" />
+</p>
+
+`MySQL` · `Redis` · `Linux` · `Git` · `GitHub`
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 CRM & ERP Systems
+
 * Customer management
-* Sales & invoice management
-* Discount & approval workflows
+* Sales management
+* Invoice systems
 * Employee management
-* Payroll systems
-* Commission & bonus management
-* Attendance & performance tracking
-* Reporting & analytics
-* Role & permission management
+* Payroll
+* Commission & bonuses
+* Approval workflows
+* Reporting dashboards
+* Role & permission systems
 
-### 🔌 API Development & Integrations
+</td>
+<td width="50%">
 
-* RESTful APIs
-* Third-party API integrations
+### 🔌 APIs & Integrations
+
+* REST APIs
+* Third-party APIs
 * WhatsApp integrations
 * SMS gateways
 * Email services
 * OTP systems
 * Payment integrations
 * Webhooks
-* API authentication & authorization
+* API authentication
 
-### ⚡ Performance & Scalability
+</td>
+</tr>
 
-I work on improving application performance through:
+<tr>
+<td width="50%">
 
-* MySQL query optimization
+### ⚡ Performance Engineering
+
+* MySQL optimization
 * Database indexing
-* Laravel Eloquent optimization
-* Efficient relationships and queries
-* Queue & background processing
-* API optimization
+* Eloquent optimization
+* Query optimization
+* Queue processing
+* Background jobs
 * Large dataset processing
 * DataTables optimization
-* Application debugging and profiling
+* Application debugging
+
+</td>
+<td width="50%">
+
+### 🤖 Automation
+
+* Business automation
+* Scheduled tasks
+* Notification systems
+* WhatsApp automation
+* SMS automation
+* Email automation
+* Queue-based processing
+* Workflow automation
+* Reporting automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Development Areas
+# 🛠️ Engineering Expertise
 
 ### Laravel & PHP
 
-Building production-ready Laravel applications with:
+I build production-ready Laravel applications using:
 
 * MVC architecture
-* REST APIs
 * Eloquent ORM
+* REST APIs
 * Authentication & authorization
 * Spatie Permission
 * Jobs & queues
-* Scheduled tasks
 * Events & listeners
 * Notifications
+* Scheduled commands
 * Database migrations
 * Advanced reporting
 * Third-party integrations
@@ -134,10 +183,10 @@ Building production-ready Laravel applications with:
 Building modern frontend applications with:
 
 * Component-based architecture
+* Reusable UI components
 * REST API integration
-* Reusable components
 * Dynamic dashboards
-* Forms & validation
+* Form validation
 * State management
 * Responsive interfaces
 * Vite-based development
@@ -150,120 +199,274 @@ Developing backend services and integrations using:
 * Express.js
 * REST APIs
 * MySQL
+* Background processing
 * Real-time integrations
 * WhatsApp automation
-* Background processing
 
 ---
 
-## 📂 Project Experience
+# 📦 Project Experience
 
-### CRM / ERP Platforms
+## 🏢 CRM / ERP Platforms
 
-Business management systems covering:
+Business management applications designed to handle complex organizational workflows.
 
-`CRM` `ERP` `Invoices` `Customers` `Employees` `Payroll` `Reports` `Approvals`
+**Core modules:**
 
-### Payroll & Performance Systems
-
-Automated systems for:
-
-`Attendance` `Performance` `Commission` `Bonuses` `Salary` `Reporting`
-
-### Messaging & Communication Systems
-
-Solutions involving:
-
-`Node.js` `WhatsApp` `SMS` `Email` `OTP` `REST APIs`
-
-### Modern Web Applications
-
-Frontend and full-stack applications using:
-
-`Laravel` `Vue.js` `React` `Node.js` `MySQL` `JavaScript`
+`CRM` `ERP` `Customers` `Employees` `Invoices` `Payroll` `Reports` `Approvals`
 
 ---
 
+## 💰 Payroll & Performance Systems
 
+Automated employee management and performance platforms.
 
-## 📊 GitHub
+**Core modules:**
 
-<p align="center">
-  <a href="https://github.com/Muhammadishaaq">
-    <img src="https://img.shields.io/github/followers/Muhammadishaaq?style=for-the-badge&label=Followers" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Muhammadishaaq?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Muhammadishaaq">
-    <img src="https://img.shields.io/github/last-commit/Muhammadishaaq/Muhammadishaaq?style=for-the-badge&label=Profile%20Updated" alt="Profile Updated" />
-  </a>
-</p>
+`Attendance` `Performance` `Commission` `Bonus` `Salary` `Targets` `Reporting`
 
 ---
 
-## 🧩 Core Skills
+## 💬 Messaging & Communication Platforms
+
+Communication systems connecting applications with external messaging providers.
+
+**Technology areas:**
+
+`Node.js` `WhatsApp` `SMS` `Email` `OTP` `REST APIs` `Webhooks`
+
+---
+
+## 🌐 Modern Web Applications
+
+Full-stack applications combining modern frontend and backend technologies.
+
+**Technology stack:**
+
+`Laravel` `PHP` `Vue.js` `React` `Node.js` `MySQL` `JavaScript`
+
+---
+
+# 🔐 Security & Application Architecture
+
+I focus on building applications that are not only functional but also secure and maintainable.
 
 ```text
-Backend       Laravel • PHP • Node.js • Express.js
-Frontend      Vue.js • React • JavaScript • Bootstrap
-Database      MySQL • Redis
-APIs          REST API • Webhooks • Third-Party Integrations
-Architecture  MVC • REST • Modular Applications
-Security      Authentication • Authorization • RBAC
-Performance   Query Optimization • Indexing • Queues
-Tools         Git • GitHub • Linux • Vite
+Authentication
+      ↓
+Authorization
+      ↓
+Role-Based Access Control
+      ↓
+Validated Requests
+      ↓
+Service / Business Logic
+      ↓
+Optimized Database Queries
+      ↓
+Queues & Background Processing
+      ↓
+Reliable API / Application Response
+```
+
+### Security Experience
+
+* Authentication
+* Authorization
+* RBAC
+* API authentication
+* Request validation
+* Permission management
+* Secure integrations
+* Access control
+* Data protection
+
+---
+
+# ⚡ Performance Mindset
+
+> **A feature isn't finished when it works — it's finished when it works reliably at scale.**
+
+I work on performance improvements such as:
+
+```text
+Slow Query
+    ↓
+Query Analysis
+    ↓
+Relationship Optimization
+    ↓
+Database Indexing
+    ↓
+Eloquent Optimization
+    ↓
+Caching
+    ↓
+Queue / Background Processing
+    ↓
+Faster Application
+```
+
+### Performance Areas
+
+* MySQL query optimization
+* Laravel Eloquent optimization
+* Database indexing
+* N+1 query prevention
+* Efficient relationships
+* Queue workers
+* Background jobs
+* Large dataset processing
+* API optimization
+* DataTables optimization
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/Muhammadishaaq">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammadishaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/Muhammadishaaq">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadishaaq&layout=compact&hide_border=true&langs_count=8" />
+  </a>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammadishaaq&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammadishaaq&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🧩 Core Skills
+
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td>Laravel · PHP · Node.js · Express.js</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>Vue.js · React · JavaScript · Bootstrap</td>
+</tr>
+
+<tr>
+<td><b>Database</b></td>
+<td>MySQL · Redis</td>
+</tr>
+
+<tr>
+<td><b>APIs</b></td>
+<td>REST API · Webhooks · Third-Party Integrations</td>
+</tr>
+
+<tr>
+<td><b>Architecture</b></td>
+<td>MVC · REST · Modular Applications</td>
+</tr>
+
+<tr>
+<td><b>Security</b></td>
+<td>Authentication · Authorization · RBAC</td>
+</tr>
+
+<tr>
+<td><b>Performance</b></td>
+<td>Query Optimization · Indexing · Queues · Caching</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Git · GitHub · Linux · Vite</td>
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
+
+I'm currently focused on becoming even stronger in:
+
+```text
+┌─────────────────────────────────────────────┐
+│  🚀 Scalable Laravel Applications           │
+│  🔌 Advanced API Architecture               │
+│  🗄️ Database Performance & Optimization     │
+│  ☁️ SaaS Application Development             │
+│  ⚛️ Modern Vue.js & React Applications       │
+│  🟢 Node.js Backend Services                │
+│  🤖 Business Process Automation              │
+│  🧱 Clean & Maintainable Architecture        │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 Current Focus
+# 🤝 Open to Collaboration
 
-I'm continuously improving my skills in:
+I'm interested in collaborating on:
 
-* Scalable Laravel applications
-* Advanced API architecture
-* Database performance
-* SaaS development
-* Modern Vue.js & React applications
-* Node.js services
-* System automation
-* Clean and maintainable software architecture
-
----
-
-## 🤝 Open to Collaboration
-
-I'm interested in working on:
-
-* Full-Stack Web Applications
-* Laravel Projects
-* SaaS Platforms
-* CRM / ERP Systems
-* REST API Development
-* Business Automation
-* Vue.js / React Applications
-* Node.js Applications
-* Long-Term Development Projects
+* 🚀 Full-Stack Web Applications
+* ⚡ Laravel & PHP Projects
+* ☁️ SaaS Platforms
+* 🏢 CRM / ERP Systems
+* 🔌 REST API Development
+* 🤖 Business Automation
+* 🟢 Node.js Applications
+* 🟢 Vue.js / React Applications
+* 📊 Business Intelligence & Reporting
+* 🤝 Long-Term Development Projects
 
 ---
 
-## 📫 Let's Connect
+# 🌎 Let's Connect
 
-<p>
-  <a href="https://github.com/Muhammadishaaq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+
+<a href="https://github.com/Muhammadishaaq">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
+## 💡 Developer Philosophy
+
 <p align="center">
-  <b>Building reliable software, one system at a time.</b>
+
+### <i>"Build it clean. Make it scalable. Keep it maintainable."</i>
+
+</p>
+
+I believe good software should be:
+
+`Reliable` · `Secure` · `Scalable` · `Maintainable` · `Performant`
+
+---
+
+<p align="center">
+
+### 🚀 Building reliable software, one system at a time.
+
+**Muhammad Ishaq · Full-Stack Developer**
+
 </p>
