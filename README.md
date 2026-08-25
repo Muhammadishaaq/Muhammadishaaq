@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Muhammadishaaq&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Profile%20Views-3000-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
